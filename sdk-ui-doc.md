@@ -1,6 +1,6 @@
-# Design Document
+# SDK UI Doc
 
-## Preface&#x20;
+## Overview&#x20;
 
 To ensure visual consistency, we use a specific color palette to define colors and provide a consistent visual experience for the products you build. This color palette can be used to efficiently adjust the appearance of components or create your own themes to meet diverse visual needs for business and branding, including but not limited to global styles (colors, images). We provide black-and-white preset themes by default, and you can quickly generate different styles of themes by modifying parameters.
 
