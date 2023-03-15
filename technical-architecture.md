@@ -2,7 +2,7 @@
 
 Crescent is an open-source wallet, and this chapter provides an analysis of the wallet's basic infrastructure for research and learning purposes.&#x20;
 
-Note that SDK integrators can also integrate Crescent without reading this chapter.&#x20;
+Note that it's not required to read this chapter to integrate Crescent SDK.
 
 ### Bundler
 

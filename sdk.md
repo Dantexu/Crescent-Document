@@ -1,16 +1,16 @@
-# Development Document
+# SDK
 
-### Crescent wallet SDKs
+### Crescent Wallet SDKs
 
-Crescent Wallet support multi platforms SDK which is convenient for developers to access.
+Crescent Wallet supports multi-platform SDK.
 
 &#x20;
 
-| SDK         | State      | Document                                         |
-| ----------- | ---------- | ------------------------------------------------ |
-| Android SDK | Done       | [Start now](development-document.md#android-sdk) |
-| iOS SDK     | Done       | [Start now](development-document.md#ios-sdk)     |
-| Unity SDK   | Developing | Developing                                       |
+| SDK         | State      | Document                        |
+| ----------- | ---------- | ------------------------------- |
+| Android SDK | Done       | [Start now](sdk.md#android-sdk) |
+| iOS SDK     | Done       | [Start now](sdk.md#ios-sdk)     |
+| Unity SDK   | Developing | Developing                      |
 
 ### &#x20;Android SDK
 
