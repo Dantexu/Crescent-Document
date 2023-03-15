@@ -1,14 +1,14 @@
-# Features\&Functions
+# Features
 
-#### No seed phrase and private key.
+#### Keyless. No seed phrase and private key.
 
-Users use their eamil accounts to login , without seed phrase and private key.Provide a Web2 login experience for users.&#x20;
+Users log in with email accounts. Seed phrases and private keys are hidden from users' workflow.
 
 #### DKIM validation on chain
 
-Domainkeys Identified Mail (DKIM) is an email authentication method designed to detect whether the sender address, subject, body, etc. of an email has been modified (email spoofing) .The mail will be signed by the sender's mail service provider when outbounding . After the mail receiving server receives the DKIM-signed mail, it can verify whether the mail is indeed from the sender and the content has not been tampered with.&#x20;
+Domainkeys Identified Mail (DKIM) is an email authentication method designed to detect whether the sender address, subject, body, etc. of an email has been modified (email spoofing) .The mail will be signed by the sender's mail service provider when outrebounding. After the mail receiving server receives the DKIM-signed mail, it can verify whether the mail is indeed from the sender and the content has not been tampered with.&#x20;
 
-Crescent implement dkim digital signature verification through smart contracts. realizes verification of email content and transactions on chain, and then manage contract accounts through eamill address.
+Crescent implements dkim digital signature verification through smart contracts. realizes verification of email content and transactions on chain, and then manages contract accounts through email.
 
 To avoid exposing user information while verifying ownership of email address, Crescent use ZKP technology to ensure user privacy and security in a decentralised way.
 
